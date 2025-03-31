@@ -1,0 +1,5 @@
+# ninja log v6
+5	505	7650494083549472	CMakeFiles/Lab_Parallel_Distributed_Programming.dir/main.cpp.obj	243237b83def922
+875	1090	7650682967658059	Lab_Parallel_Distributed_Programming.exe	abddf90baf2c8cee
+23	358	7650689343966525	build.ninja	72cf5478ce9c4eae
+3	873	7650682958934296	CMakeFiles/Lab_Parallel_Distributed_Programming.dir/determinant_openmp.cpp.obj	59fee833bd307c76

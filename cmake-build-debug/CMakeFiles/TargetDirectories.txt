@@ -1,0 +1,3 @@
+C:/Users/Admin/CLionProjects/Lab_Parallel_Distributed_Programming/cmake-build-debug/CMakeFiles/Lab_Parallel_Distributed_Programming.dir
+C:/Users/Admin/CLionProjects/Lab_Parallel_Distributed_Programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/CLionProjects/Lab_Parallel_Distributed_Programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
