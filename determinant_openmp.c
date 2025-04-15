@@ -48,8 +48,8 @@ int main(int argc, char* argv[]) {
         // Fill matrix with values in range [-1.0, 1.0]
         for (int i = 0; i < matrix_size; i++) {
             for (int j = 0; j < matrix_size; j++) {
-                int val = rand() % 2001 - 1000;     // Random int between -1000 and 1000
-                matrix[i][j] = val / 1000.0L;        // Convert to long double in [-1.0, 1.0]
+                int val = rand() % 2001 - 1000;
+                matrix[i][j] = val / 10000.0L;
             }
         }
     }
@@ -60,7 +60,7 @@ int main(int argc, char* argv[]) {
     double end = omp_get_wtime();
 
     // Output results
-    printf("\nDet = %.10Le\n", det);
+    printf("\nDet = %.30Le\n", det);
     printf("Delta-time: %.6f seconds\n", end - start);
 
     // Free matrix memory
